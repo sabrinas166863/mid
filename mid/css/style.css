@@ -227,7 +227,9 @@ body {
   padding-left: 20px;
   line-height: 2;
 }
-
+.fa-lightbulb-o:before{content:"\f0eb"}
+.fa-users:before{content:"\f0c0"}
+.fa-paint-brush:before{content:"\f1fc"}
 
 /* --------------------------------
  * contact
